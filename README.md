@@ -245,7 +245,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [cozero](https://cozero.io) | [jobs](https://cozero.io/careers#join-widget) |  | Enable companies to effectively decarbonize and transform their business | ✅ | ✅ |
 | [The Climate Choice](https://theclimatechoice.com/de/) | [jobs](https://careers.smartrecruiters.com/THECLIMATECHOICEUGhaftungsbeschrnkt) | [4.8/5](https://www.kununu.com/de/the-climate-choice-ug) | Wir helfen Unternehmen ihre Klimatransformation zu beschleunigen. |  | ✅ |
 | [Carbonfuture](https://www.carbonfuture.earth/) | [jobs](https://www.carbonfuture.earth/jobs) |  | Carbon Removal Platform | ✅ | ✅ |
-| [GFK Solar Installation GmbH](https://https://gfk-solar.de) | [jobs](https://gfk-solar.de/jobangebote/) |  | Sustainable energy for everyone | ✅ | ✅ |
+| [GFK Solar Installation GmbH](https://gfk-solar.de) | [jobs](https://gfk-solar.de/jobangebote/) |  | Sustainable energy for everyone | ✅ | ✅ |
 
 
 #### Circular Economy
